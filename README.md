@@ -1,4 +1,6 @@
-## Hi there, I am a Systems Engineering and Computer Science student at Pontificia Universidad Javeriana, and this profile serves as a timeline of my academic and practical growth. My pinned repositories track this journey: from my earliest programming steps (first-codes-and-proyect-in-javeriana) and fundamental algorithms coursework (Analysis-and-Design-of-Algorithms---Problem-solving, Data-Structures---Problem-solving, and Data-Structure-Proyect), to collaborating on software architecture projects (sistema-pos) and building full-stack platforms for autonomous drone and robot fleets (autonomous-fleet-manager).
+##### Hi there, I am a Systems Engineering and Computer Science student at Pontificia Universidad Javeriana, and this profile serves as a timeline of my academic and practical growth. 
+
+My pinned repositories track this journey: from my earliest programming steps (first-codes-and-proyect-in-javeriana) and fundamental algorithms coursework (Analysis-and-Design-of-Algorithms---Problem-solving, Data-Structures---Problem-solving, and Data-Structure-Proyect), to collaborating on software architecture projects (sistema-pos) and building full-stack platforms for autonomous drone and robot fleets (autonomous-fleet-manager).
 
 <!--
 **Firerob/Firerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
