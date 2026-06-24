@@ -4,6 +4,8 @@ I am a Systems Engineering and Computer Science student at Pontificia Universida
 
 My pinned repositories track this journey: from my earliest programming steps (first-codes-and-proyect-in-javeriana) and fundamental algorithms coursework (Analysis-and-Design-of-Algorithms---Problem-solving, Data-Structures---Problem-solving, and Data-Structure-Proyect), to collaborating on software architecture projects (sistema-pos) and building full-stack platforms for autonomous drone and robot fleets (autonomous-fleet-manager).
 
+Beyond these public projects, which represent what I've been able to host openly on GitHub, I have built more other applications throughout my coursework. Currently, I am focused on a personal project that I am keeping in a private repository for now."
+
 <!--
 **Firerob/Firerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
